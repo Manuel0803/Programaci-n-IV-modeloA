@@ -1,0 +1,13 @@
+{
+  "name": "proyecto-parcial-progiv",
+  "version": "1.0.0",
+  "description": "Sistema de análisis de métricas e interacciones con JSONPlaceholder",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
